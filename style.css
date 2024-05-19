@@ -72,7 +72,8 @@ p{
 
 img{
     height:100%;
-    filter: opacity(40%);
+    mix-blend-mode: multiply;
+    opacity: 0.7;
 }
 
 @media (max-width:1100px) {
